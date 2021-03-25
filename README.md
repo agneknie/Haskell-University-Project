@@ -1,4 +1,4 @@
-# Haskell-University-Project-COM2108
+# Haskell-University-Project
 
 ### My work on the Functional Programming Module COM2108 at the University of Sheffield.
 #
