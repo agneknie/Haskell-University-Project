@@ -1,6 +1,7 @@
 # Haskell-University-Project
 
-### My work on the Functional Programming Module COM2108 at the University of Sheffield.
+### My work on the Functional Programming Module COM2108 at the University of Sheffield. 
+Programming Assignment Grade Achieved: 100%.
 #
 
 ### Source Folder
@@ -13,6 +14,6 @@
 ### Programming Assignment Folder
 - Programming Assignment folder contains the final assignment, which is based on the 3s-and-5s version of Dominoes. 
 - The assignment asks to develop autonomous domino players.
-- The description of those players is present in the Design document.
-- The results of testing the efficiency and how good are the players are in the Results document.
-- Feedback and the mark awarded for the assignment is provided in the Feedback document.
+- The description of those players is present in the [Design document](Programming&#32;Assignment/Agne_Knietaite_Design.pdf).
+- The results of testing the efficiency and how good are the players are in the [Results document](Programming&#32;Assignment/Agne_Knietaite_Results.pdf).
+- Feedback and the mark awarded for the assignment is provided in the [Feedback document](Programming&#32;Assignment/Feedback.pdf).
